@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-___________      .__               .__   
+<!-- ___________      .__               .__   
 \_   _____/____  |__| ___________  |  |  
  |    __) \__  \ |  |/  ___/\__  \ |  |  
  |     \   / __ \|  |\___ \  / __ \|  |__
  \___  /  (____  /__/____  >(____  /____/
-     \/        \/        \/      \/ 
+     \/        \/        \/      \/  -->
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clumsyfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="clumsyfaisal" /> </p>
