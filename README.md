@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/clumsyfaisal" target="blank"><img src="https://img.shields.io/twitter/follow/clumsyfaisal?logo=twitter&style=for-the-badge" alt="clumsyfaisal" /></a> </p> -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
