@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm</h1>
 
-<pre>
+<pre align="center">
   ___________      .__               .__   
   \_   _____/____  |__| ___________  |  |  
    |    __) \__  \ |  |/  ___/\__  \ |  |  
@@ -13,6 +13,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=clumsyfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="clumsyfaisal" />
+</p>
+
+<p align="left"> <a href="https://twitter.com/clumsyfaisal" target="blank">
+   <img src="https://img.shields.io/twitter/follow/clumsyfaisal?logo=twitter&style=for-the-badge" alt="clumsyfaisal" /></a>
 </p>
 
 <!--
