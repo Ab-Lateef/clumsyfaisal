@@ -79,7 +79,7 @@
 
 <p align="left">
   <a href="https://odoo.com" target="_blank">
-    <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="aws" width="80" height="75"/>
+    <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="aws" width="90" height="75"/>
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank">
@@ -87,7 +87,7 @@
   </a>
 
   <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django" width="80" height="60"/>
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django" width="90" height="75"/>
   </a>
 </p>
 
