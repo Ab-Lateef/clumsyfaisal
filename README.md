@@ -87,7 +87,7 @@
   </a>
 
   <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django" width="90" height="75"/>
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django" width="100" height="75"/>
   </a>
 </p>
 
