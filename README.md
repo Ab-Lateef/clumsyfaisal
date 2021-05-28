@@ -141,7 +141,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clumsyfaisal&show_icons=true&locale=en&layout=compact" alt="clumsyfaisal"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clumsyfaisal&show_icons=true&locale=en&layout=compact" alt="clumsyfaisal" />
 </p>
 
 <p>&nbsp;
@@ -149,5 +149,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clumsyfaisal&" alt="clumsyfaisal"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clumsyfaisal&" alt="clumsyfaisal" />
 </p>
