@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  </a> 
  
   <a href="https://odoo.com" target="_blank">
-  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="aws" width="40" height="40"/>
+  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="aws" width="50" height="50"/>
  </a> 
  
  
